@@ -13,5 +13,8 @@ group second
 kokekakiki -> hage: hogehage
 end
 
+ newpage hogehoge
+ 
+ op -> kokekakiki: aaa
 
 @enduml
