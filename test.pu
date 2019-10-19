@@ -1,6 +1,6 @@
 @startuml test
-actor Person
 title page1
+actor Person
 Person -> hoge: hagehage
 
 hoge -> hage: hogehage
