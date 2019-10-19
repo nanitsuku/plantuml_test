@@ -1,31 +1,17 @@
-@startuml
+@startuml test
 actor Person
 
-Person -> hoge: hogehoge
+Person -> hoge: hagehage
 
-newpage
+hoge -> hage: hogehage
 
-Person -> hoge: hogehoge
-Person -> hoge: hogehoge
+hoge -> hage: aaa
 
-newpage
-Person -> hoge: hogehoge
+newpage test
 
-newpage
-Person -> hoge: hogehoge
+group second
+kokekakiki -> hage: hogehage
+end
 
-newpage
-Person -> hoge: hogehoge
-
-newpage
-Person -> hoge: hogehoge
-
-newpage
-Person -> hoge: hogehoge
-
-newpage
-Person -> hoge: hogehoge
-
-newpage
 
 @enduml
