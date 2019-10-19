@@ -1,0 +1,31 @@
+@startuml
+actor Person
+
+Person -> hoge: hogehoge
+
+newpage
+
+Person -> hoge: hogehoge
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+Person -> hoge: hogehoge
+
+newpage
+
+@enduml
