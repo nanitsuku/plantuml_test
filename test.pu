@@ -1,13 +1,13 @@
 @startuml test
 actor Person
-
+title page1
 Person -> hoge: hagehage
 
 hoge -> hage: hogehage
 
 hoge -> hage: aaa
 
-newpage test
+newpage page2
 
 group second
 kokekakiki -> hage: hogehage
